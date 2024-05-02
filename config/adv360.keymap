@@ -51,7 +51,7 @@
   &kp GRAVE             &none    &kp UP_ARROW            &none     &none   &none                  &none                                                                   &none   &none           &none    &kp UP_ARROW            &none            &none              &none
     &kp TAB    &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW     &none   &none            &bootloader  &kp LCTRL  &kp LALT                   &kp LGUI  &kp RCTRL  &bootloader   &none  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW            &none              &none
   &kp LSHFT             &none      &kp C_PLAY            &none     &none   &none                                    &kp HOME                  &kp PG_UP                           &none           &none           &none            &none            &none          &kp RSHFT
-      &mo 0  &kp LEFT_CONTROL       &kp LCTRL         &kp LALT  &kp LGUI                       &kp BSPC    &kp DEL   &kp END                  &kp PG_DN  &kp ENTER    &kp KP_N0          &kp LEFT_ARROW  &kp DOWN_ARROW     &kp UP_ARROW  &kp RIGHT_ARROW  &kp RIGHT_CONTROL
+      &mo 0  &kp LEFT_CONTROL       &kp LCTRL         &kp LALT  &kp LGUI                       &kp BSPC    &kp DEL   &kp END                  &kp PG_DN  &kp ENTER    &kp SPACE          &kp LEFT_ARROW  &kp DOWN_ARROW     &kp UP_ARROW  &kp RIGHT_ARROW  &kp RIGHT_CONTROL
             >;
         };
 
